@@ -31,7 +31,7 @@ msgstr "Ajouter à la liste de lecture"
 #: ../src/Widgets/Album.vala:119 ../src/Widgets/Artist.vala:99
 #: ../src/Widgets/Track.vala:114
 msgid "Send to"
-msgstr ""
+msgstr "Envoyer vers"
 
 #: ../src/Widgets/Album.vala:165 ../src/Widgets/Track.vala:160
 msgid "Create New Playlist"
@@ -61,8 +61,7 @@ msgstr "Modifier le dossier musique"
 
 #: ../src/Widgets/Views/AlbumsView.vala:107
 msgid "Load music from a folder, a network or an external disk."
-msgstr ""
-"Charger de la musique depuis un dossier, le réseau ou un disque externe"
+msgstr "Charger de la musique depuis un dossier, le réseau ou un disque externe"
 
 #: ../src/Widgets/Views/AlbumsView.vala:108
 msgid "Import Music"
@@ -182,15 +181,15 @@ msgstr "Inconnu"
 
 #: ../src/Objects/MobilePhoneMusicFolder.vala:82
 msgid "deleting…"
-msgstr ""
+msgstr "suppression..."
 
 #: ../src/Objects/AudioCD.vala:100
 msgid "Track %d"
-msgstr ""
+msgstr "Morceau %d"
 
 #: ../src/Objects/MobilePhone.vala:45
 msgid "No Music Files found"
-msgstr ""
+msgstr "Aucun morceau de musique trouvé"
 
 #: ../src/MainWindow.vala:110
 msgid "Pause"
@@ -222,7 +221,7 @@ msgstr "Importer de la musique..."
 
 #: ../src/MainWindow.vala:353
 msgid "Reset all views"
-msgstr ""
+msgstr "Réinitialiser toutes les vues"
 
 #: ../src/MainWindow.vala:359
 msgid "Rescan Library"
@@ -254,7 +253,7 @@ msgstr "Stations radio"
 
 #: ../src/MainWindow.vala:484
 msgid "Audio CD"
-msgstr ""
+msgstr "CD audio"
 
 #: ../src/MainWindow.vala:544 ../src/MainWindow.vala:552
 msgid "<b>%s</b> by <b>%s</b>"
@@ -262,16 +261,16 @@ msgstr "<b>%s</b> par <b>%s</b>"
 
 #: ../src/Dialogs/Preferences.vala:60
 msgid "Use Dark Theme"
-msgstr ""
+msgstr "Utiliser le thème sombre"
 
 #: ../src/Dialogs/Preferences.vala:68
 msgid "Play in background if closed"
-msgstr "Poursuivre la lecture en arrière-plan"
+msgstr "Poursuivre la lecture en arrière-plan lors de la fermeture"
 
 #: ../src/Dialogs/Preferences.vala:76
 msgid "Look for new files on start up"
-msgstr ""
+msgstr "Rechercher les nouveaux fichiers au démarrage"
 
 #: ../src/Dialogs/Preferences.vala:84
 msgid "Load Artist data from MusicBrainz"
-msgstr ""
+msgstr "Importer les métadonnées depuis MusicBrainz"
